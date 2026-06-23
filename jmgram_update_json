@@ -4,7 +4,7 @@
   "description": "JMGram update",
   "changelog": ["Bug fixes", "Performance improvements"],
   "downloadUrl": "https://t.me/jmwhatsapp",
-  "fileName": "jmgram.apk",
+  "fileName": "spgram.apk",
   "fileSize": 52428800,
   "forceUpdate": false
 }

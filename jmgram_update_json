@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "1.0.1",
   "versionCode": 10,
   "description": "JMGram update",
   "changelog": ["Bug fixes", "Performance improvements"],
   "downloadUrl": "https://t.me/jmwhatsapp",
-  "fileName": "spgram.apk",
+  "fileName": "jmgram.apk",
   "fileSize": 52428800,
   "forceUpdate": false
 }
